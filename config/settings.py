@@ -2,6 +2,10 @@
 # PARAMÈTRES GÉNÉRAUX - Tu peux modifier ces valeurs librement
 # ============================================================
 
+# --- API ---
+API_KEY = "fapi_74nP4A2JJ8Ts7DD3YeZQlkG8bcJPoMlQ"
+BASE_URL = "https://api.thestatsapi.com/v1"
+
 # --- Compétitions suivies ---
 COMPETITIONS = {
     "world_cup": True,
